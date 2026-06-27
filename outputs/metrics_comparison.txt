@@ -1,0 +1,12 @@
+Metrics (pos_label=1 => Negative)
+
+llama-3.1-8b-instant (Groq)
+  Recall (Negative):    0.9423
+  Precision (Negative): 0.8813
+  F1 (Negative):        0.9108
+
+llama-3.3-70b-versatile (Groq)
+  Recall (Negative):    0.7615
+  Precision (Negative): 0.9706
+  F1 (Negative):        0.8534
+
